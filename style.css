@@ -1,0 +1,17 @@
+#header {
+    background-color: rgb(71, 175, 240);
+    height: 100px;
+    background-image: url("img/pattern.png");
+}
+
+svg {
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 30px;
+
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
