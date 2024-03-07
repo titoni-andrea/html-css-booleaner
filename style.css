@@ -5,6 +5,12 @@ body {
 
 }
 
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
 #header {
     background-color: rgb(71, 175, 240);
     height: 100px;
@@ -31,10 +37,27 @@ h4 span {
     color: rgb(0, 191, 255);
 }
 
+figure {
+    margin-top: 15px;
+}
 
+.paragrafo {
+    margin-top: 10px;
+}
 
-* {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+ul {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+th {
+    background-color: rgb(44, 170, 249);
+}
+
+tr:nth-child(even) {
+    background-color: rgb(140, 218, 245);
+}
+
+td:last-of-type {
+    width: 50%;
 }
