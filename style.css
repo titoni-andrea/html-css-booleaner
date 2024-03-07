@@ -1,3 +1,9 @@
+body {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
 #header {
     background-color: rgb(71, 175, 240);
     height: 100px;
@@ -10,6 +16,19 @@ svg {
     padding-top: 30px;
 
 }
+
+h1 {
+    font-size: 50px;
+}
+
+h4, h6{
+    color: rgb(137, 137, 137);
+}
+h4 span {
+    color: rgb(0, 191, 255);
+}
+
+
 * {
     margin: 0px;
     padding: 0px;
