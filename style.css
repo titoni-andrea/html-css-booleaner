@@ -1,9 +1,10 @@
 body {
-    width: 70%;
-    margin-left: 15%;
-    margin-right: 15%;
+    width: 64%;
+    margin-left: 18%;
+    margin-right: 18%;
 
 }
+
 #header {
     background-color: rgb(71, 175, 240);
     height: 100px;
@@ -21,12 +22,15 @@ h1 {
     font-size: 50px;
 }
 
-h4, h6{
+h4,
+h6 {
     color: rgb(137, 137, 137);
 }
+
 h4 span {
     color: rgb(0, 191, 255);
 }
+
 
 
 * {
